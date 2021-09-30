@@ -48,3 +48,4 @@ elif str_playing.upper() == "Y":                                # If the user ty
 elif str_playing.upper() != "N" and str_playing.upper != "Y":   # If the user types something diferent than y or n
     print ("Please enter 'Y' or 'N'")
     quit()
+    
